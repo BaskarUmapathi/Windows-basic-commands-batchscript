@@ -1,7 +1,9 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-### NAME : BASKAR U
-### REG NO : 212223220013
+
+NAME : BASKAR U
+
+REG NO : 212223220013
 
 # AIM:
 To execute Windows basic commands and batch scripting
